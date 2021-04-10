@@ -15,7 +15,7 @@ function Home() {
             <header className={classes.headerContainer}>
                 <div className={classes.infoConatiner}>
                     <img src={photo} alt='thumb' className={classes.photo}/>
-                    <p className={classes.name}>Hakim Bencella</p>
+                    <p className={classes.name}>Developers Gang</p>
                     <div style={{display:'flex', alignItems:'center', marginBottom:'20px'}}>
                         <LocationIcon height={14} width={14} fill='#EE4047' />
                         <p className={classes.locationInfo}>Montreal, Quebec, Canada</p>
