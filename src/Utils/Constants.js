@@ -40,16 +40,8 @@ export const projectsList = [
         current: true,
         github: 'https://github.com/Champion-Devs/ZappNode',
         link: '#',
-        title: 'ZappNode',
-        text:'An uptime monitoring service can help you by testing if your site, app or server is still up and running. If some of its features arent working as intended, or if it goes down entirely, the owner will be notified so that they can swiftly start resolving the issue. ZappNode is one of such uptime monitoring services.',
-    },
-    {
-        id:'1',
-        current: false,
-        github: 'https://github.com/H4kim/tours-api',
-        link: 'https://h4kim-tours.herokuapp.com/',
-        title: 'Natours',
-        text:"An awesome tour booking site built on top of NodeJS and mongoDb , the keys features are Authentication and Authorization, Manage booking, check tours map, check user's reviews and rating, Update username, photo, email, and password and Credit card payment using STRIP",
+        title: 'Developers Gang',
+        text:'TESTTEST your site, app or server is still up and running. If some of its features arent working as intended, or if it goes down entirely, the owner will be notified so that they can swiftly start resolving the issue. ZappNode is one of such uptime monitoring services.',
     },
     {
         id:'2',
@@ -88,7 +80,7 @@ export const projectsList = [
 export const skillsList = [
     {
         id:'0',
-        name: 'HTML',
+        name: 'Java',
         understandingColor: '#0BE881'
     },
     {
